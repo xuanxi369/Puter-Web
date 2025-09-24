@@ -1,0 +1,7 @@
+{
+  "vncHost": "127.0.0.1",
+  "vncPort": 5900,
+  "webPort": 6080,
+  "httpPort": 8080,
+  "password": "root"
+}
