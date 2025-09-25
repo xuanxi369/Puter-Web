@@ -110,6 +110,8 @@ npm install
 4. 启动服务
 ```bash
 node server.js
+   or
+npm start
 ```
 
 5. 打开浏览器访问：
